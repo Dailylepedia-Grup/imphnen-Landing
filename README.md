@@ -19,7 +19,7 @@ Make sure you have Node.js (version 12 or higher) installed on your system.
 
 1. Clone the repository:
    ```
-   git clone (https://github.com/Dailylepedia-Grup/imphnen-Landing.git
+   git clone https://github.com/Dailylepedia-Grup/imphnen-Landing.git
    ```
 2. Navigate to the project directory:
    ```
